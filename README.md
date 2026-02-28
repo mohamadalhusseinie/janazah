@@ -33,3 +33,12 @@ Dann öffnen: <http://localhost:3000>
 2. Authentifizierung (Admin/Freigabe)
 3. E-Mail/Web-Push Benachrichtigungen
 4. Mobile App mit Expo (gleiches API)
+
+
+## Aktueller Stand
+
+- Einfach erklärt: `docs/current-state.md`
+
+## Planung
+
+- Nächste Stories (kurz & priorisiert): `docs/next-stories.md`
